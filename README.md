@@ -3,7 +3,7 @@
 
 In our first project, we'll get data from a city data portal and do exploratory data analysis to look at patterns in foot traffic in the city. Working in teams, we'll contextualize this exercise using design thinking to create imaginative use cases. Finally, we'll assemble persuasive proposals that communicate our findings and our curiosity using tight verbal and visual communication.
 
-![](.images/Benson.jpg)
+![](https://github.com/chrismalasics/mta-turnstile-analysis/blob/main/images/Benson.jpg)
 
 *Benson*
 
